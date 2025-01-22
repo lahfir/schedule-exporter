@@ -89,13 +89,11 @@ interface ScheduleEvent {
 ## Calendar Export Formats
 
 1. ICS File:
-
    - Universal calendar format
    - Compatible with most calendar applications
    - Includes all event details
 
 2. Google Calendar CSV:
-
    - Format: Subject, Start Date, End Date, Description, Location
    - Import via Google Calendar's import feature
 
@@ -106,7 +104,6 @@ interface ScheduleEvent {
 ## UI Components
 
 1. File Upload Form:
-
    - File input for TXT/PDF files
    - Text area for pasted content
    - Progress indicator during extraction
@@ -144,12 +141,10 @@ interface ScheduleEvent {
 ## Future Improvements
 
 1. Enhanced PDF Support:
-
    - Direct PDF parsing
    - OCR capabilities
 
 2. Additional Features:
-
    - Custom date format support
    - Recurring event patterns
    - Batch processing
@@ -171,4 +166,4 @@ interface ScheduleEvent {
 
 ## License
 
-MIT License
+MIT License 
