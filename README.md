@@ -1,5 +1,6 @@
 # Schedule Extractor
 
+![Schedule Extractor](public/thumbnail.png)
 A modern web application that extracts schedule information from text or PDF files and converts them into calendar formats (ICS, Google Calendar, Outlook).
 
 ## Features
